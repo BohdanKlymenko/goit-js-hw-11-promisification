@@ -9,4 +9,4 @@ const t=(t,n)=>Math.floor(Math.random()*(n-t+1)+t),n=({id:n,amount:o})=>{const a
 },{}],"Focm":[function(require,module,exports) {
 "use strict";require("./sass/main.scss"),require("./js/task-01"),require("./js/task-02"),require("./js/task-03");
 },{"./sass/main.scss":"clu1","./js/task-01":"o6lB","./js/task-02":"L79m","./js/task-03":"eBhC"}]},{},["Focm"], null)
-//# sourceMappingURL=/goit-js-hw-11-promisification/src.cca71b3d.js.map
+//# sourceMappingURL=/goit-js-hw-11-promisification/src.1c0ea9ba.js.map
